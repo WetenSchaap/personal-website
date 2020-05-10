@@ -1,0 +1,48 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+AUTHOR = 'Piet Swinkels'
+SITENAME = 'Piet Swinkels'
+SITEURL = 'https://swnkls.nl'
+#333333
+
+
+PATH = 'content'
+
+TIMEZONE = 'Europe/Amsterdam'
+
+DEFAULT_LANG = 'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+
+# What to show on the sidebar:
+DISPLAY_PAGES_ON_MENU = False
+#DISPLAY_CATEGORIES_ON_MENU = False
+# Blogroll
+LINKS = (('NAS', 'https://nas.swnkls.nl'),
+         ('Wiki', 'https://wiki.swnkls.nl'),
+         ('Jellyfin', 'https://jellyfin.swnkls.nl'),
+         ('Deluge', 'https://deluge.swnkls.nl'),
+         ('Git', 'https://git.swnkls.nl'),
+         ('Nginx', 'https://nginx.swnkls.nl'),
+         ('Shaarli', 'https://shaarli.swnkls.nl'),
+         ('local', '#'),)
+
+# Social widget
+SOCIAL = (('ORCID', 'https://orcid.org/0000-0002-6118-9746'),
+          ('Another social link', '#'),)
+
+DEFAULT_PAGINATION = False
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
+# Apply a theme:
+THEME = "../pelican-themes/Flex"
