@@ -35,8 +35,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Ignore cache for dev
-LOAD_CONTENT_CACHE = False
+# Ignore cache for development
+LOAD_CONTENT_CACHE = True
 
 # What to show on the sidebar and top:
 # main menu  (I don't really like this to be honest)
