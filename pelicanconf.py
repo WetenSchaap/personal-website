@@ -58,16 +58,19 @@ LINKS = (('Home','/index.html'),
         )
 
 #'social'
+# the first entry is the symbol (find @ https://icons8.com/line-awesome), the second the link.
+# To make this work, we need to hack the default Flex theme a little bit.
 SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/"),
           ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746"),
           ("las la-server", "https://nas.swnkls.nl"),
           ("lab la-git-square", "https://git.swnkls.nl"),
           ("las la-cogs", "https://nginx.swnkls.nl"),
           ("las la-tv", "https://jellyfin.swnkls.nl"),
-          ("las la-cloud-download-alt", "https://deluge.swnkls.nl"),
-          ("lab la-wikipedia-w", "https://wiki.swnkls.nl"),
-          ("las la-bookmark", "https://shaarli.swnkls.nl"),
+          ("las la-cloud-download-alt", "https://torrent.swnkls.nl"),
+#          ("lab la-wikipedia-w", "https://wiki.swnkls.nl"), # took this offline, may change in future.
+          ("las la-bookmark", "https://shiori.swnkls.nl"),
          )
 
 # Apply a theme:
+# Okay, this folder should be included in the repo, because I actually changed the Flex theme a little bit to make line awesome symbols work!
 THEME = "../pelican-themes/Flex"
