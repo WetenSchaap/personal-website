@@ -66,8 +66,9 @@ SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/"),
           ("lab la-git-square", "https://git.swnkls.nl"),
           ("las la-cogs", "https://nginx.swnkls.nl"),
           ("las la-tv", "https://jellyfin.swnkls.nl"),
-          ("las la-cloud-download-alt", "https://torrent.swnkls.nl"),
           ("lab la-wikipedia-w", "https://wiki.swnkls.nl"),
+          ("las la-network-wired", "https://torrent.swnkls.nl"),
+          ("las la-file-download", "https://pyload.swnkls.nl"),
 #          ("las la-bookmark", "https://shiori.swnkls.nl"), # took this offline, may change in future.
          )
 
