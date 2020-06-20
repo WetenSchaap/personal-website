@@ -60,16 +60,18 @@ LINKS = (('Home','/index.html'),
 #'social'
 # the first entry is the symbol (find @ https://icons8.com/line-awesome), the second the link.
 # To make this work, we need to hack the default Flex theme a little bit.
-SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/"),
-          ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746"),
-          ("las la-server", "https://nas.swnkls.nl"),
-          ("lab la-git-square", "https://git.swnkls.nl"),
-          ("las la-cogs", "https://nginx.swnkls.nl"),
-          ("las la-tv", "https://jellyfin.swnkls.nl"),
-          ("lab la-wikipedia-w", "https://wiki.swnkls.nl"),
-          ("las la-network-wired", "https://torrent.swnkls.nl"),
-          ("las la-file-download", "https://pyload.swnkls.nl"),
-          ("las la-utensils", "https://kookboek.swnkls.nl/"),
+# Entries of the form: ( LINE AWESOME CODE , LINK , BREAK )
+# where BREAK is an int set to 0 or 1. 0 does nothing, 1 forces the next entry to start at the next line. Usefull for grouping.
+SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/", "0"),
+          ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746", "1"),
+          ("las la-server", "https://nas.swnkls.nl", "0"),
+          ("lab la-git-square", "https://git.swnkls.nl", "0"),
+          ("las la-cogs", "https://nginx.swnkls.nl", "0"),
+          ("las la-tv", "https://jellyfin.swnkls.nl", "0"),
+          ("lab la-wikipedia-w", "https://wiki.swnkls.nl", "0"),
+          ("las la-network-wired", "https://torrent.swnkls.nl", "0"),
+          ("las la-file-download", "https://pyload.swnkls.nl", "0"),
+          ("las la-utensils", "https://kookboek.swnkls.nl/", "0"),
 #          ("las la-bookmark", "https://shiori.swnkls.nl"), # took this offline, may change in future.
          )
 
