@@ -1,15 +1,20 @@
 title: MSc Thesis
 date: 2020-07-28
 modified: 2020-07-28
-slug: msc-thesis
+slug: pages/msc-thesis
 
 I performed my MSc thesis in 2016-2017 under supervision of [Ilse van Hees](https://orcid.org/0000-0001-7261-3699) and [Marleen Kamperman](https://orcid.org/0000-0002-0520-4534) (currently full professor at the University of Groningen) in the [Physical Chemistry and Soft Matter group](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Physical-Chemistry-and-Soft-Matter.htm) at Wageningen University. 
 
-In this project, I explored the coacervation behaviour of temperature responsive polyelectrolytes. Of course, I wrote a report on this thesis, which is available upon request, if you really want it. However, a [paper](https://doi.org/10.1039/c9py00250b) was published about this work (and even a bit more!) so I suggest you go read that. It is probably written better, misses all the uninteresting technical details, and is also about 50 pages shorter.
+In this project, I explored the coacervation behaviour of temperature responsive polyelectrolytes. Of course, I wrote a report on this thesis, which is available upon request, if you really want it. However, a [paper](https://doi.org/10.1039/c9py00250b) was published about this work (and even a bit more!) so I suggest you go read that. It is probably written better, misses all the uninteresting technical details, and is also about 40 pages shorter.
 
 If you want a short(-ish) readable, understandable version of my work, keep reading! Before we go any deeper, it is probably best to give you some background on [polyelectrolytes](https://en.wikipedia.org/wiki/Polyelectrolyte) (fancy name for polymers with charged monomers) and coacervation. If you know this, you may want to skip the following section.
+
 # Polyelectrolytes, Coacervation, and Salts
-It may be somewhat unsurprising, but when you take a positively charged polyelectrolyte (dissolved in water), and mix it with an negatively charged polyelectrolyte, the polymers tend to attract each other, form a complex, demix from the solvent, and fall out of the original solution. The new concentrated phase consists of both types of electrolytes and a lot of water (up to 80% water in fact, somewhat surprising considering I just called this the 'concentrated' phase). This process is what we call "[complex coacervation](https://en.wikipedia.org/wiki/Coacervate)", and the concentrated phase it produces is called a "complex coacervate". Why such an uninteresting name? No idea. The complex coacervate is typically a gooey, slimy substance, with a very low interfacial tension with water. I should add a picture here!
+It may be somewhat unsurprising, but when you take a positively charged polyelectrolyte (dissolved in water), and mix it with an negatively charged polyelectrolyte, the polymers tend to attract each other, form a complex, demix from the solvent, and fall out of the original solution. The new concentrated phase consists of both types of electrolytes and a lot of water (up to 80% water in fact, somewhat surprising considering I just called this the 'concentrated' phase). This process is what we call "[complex coacervation](https://en.wikipedia.org/wiki/Coacervate)", and the concentrated phase it produces is called a "complex coacervate". Why such an uninteresting name? No idea. The complex coacervate is typically a gooey, slimy substance, with a very low interfacial tension with water.
+
+| ![Picture showing what a complex coacervate looks like]({static}/images/complex-coacervates.png "Examples of complex coacervates") | 
+|:--:| 
+| *A & B show examples of complex coacervates. Notice that in B the coacervate is pretty slimy. In C, you can see how we typically make a complex coacervate: we put two oppositly charged polymers in a solution, and the coacervate comes out!* |
 
 As mentioned, this complex coacervation typically takes place between 2 oppositely charged polyelectrolytes, and is not caused by electrostatic effects (as you may expect), but due to the entropic gain of the displacement of counter-ions on the polyelectrolytes. This means that the amount and type of salt can strongly influence how strongly the polyelectrolytes bond each other.
 
@@ -30,12 +35,24 @@ We prefer not to work with pH but with an easier to control variable: temperatur
 So, how do we go about this, how do we get a temperature controlled hardening? Our solution is [PNIPAM](https://en.wikipedia.org/wiki/Poly%28N-isopropylacrylamide%29), a polymer that is pretty boring and water-soluable at room temperature, but changes it behaviour when it is heated above ~32 degrees C: it demixes from water and starts sticking to itself (this is the so called [LCST](https://en.wikipedia.org/wiki/Lower_critical_solution_temperature)) . Why this happens exactly is at the moment not super relevant, but it is all quite interesting, and worthy of study in its own right. Important to mention here is that if you add salt to the PNIPAM solution, you decrease this LCST, you can go even to below the freezing point if you just keep adding salt!
 
 The solution we have now constructed is, in theory pretty simple: we make 2 types of special polymers, each made of two parts (so called [block-copolymers](https://en.wikipedia.org/wiki/Copolymer)). The first part of the polymer is a charged bit, either positive or negative, and the second part of the polymer is PNIPAM. In theory, this could react the way we want to, creating a glue that I have described but in practice, life is almost always more complicated.
+
+
+| ![Picture of our plan]({static}/images/the-plan.png "Our master plan") | 
+|:--:| 
+| *Our plan: we build 2 types of polymers, both with a positive or negative polyelectrolyte (called PAA and PDMAEMA) and PNIPAM. When we mix those polymers, they should form a slimy thing that will harden out at higher temperatures.* |
+
 # What actually happened
 Well in fact, things sort of worked the way we expect, only, more is happening then we expected! We get an entire phase diagram of behaviours. It turns out that depending on the salt concentration and the temperature of the samples, you get wildly different behaviours from the polymer mixture. I will guide you trough it quickly.
 
 At very high salt concentrations, the coacervate does not want to form, because the driving force (releasing salt into the solution) is basically gone. But, as you have added a lot of salt, the PNIPAM LCST is below room temperature, and thus all the PNIPAM tries to stick together. This causes the formation of so called PNIPAM cored [micelles](https://en.wikipedia.org/wiki/Micelle), basically, you have little balls with a core of PNIPAM from several polymers stuck together, and several strands of charged polymer standing out from that, in such a way no more PNIPAM can be added to this ball.
 
 At lower salt concentration (but still room temperature), we get so called coacervate cored micelles, the opposite situation of earlier. Now, because the salt concentration is lower, the polyelectrolytes try to stick together to form a coacervate, but the PNIPAM wants to be dissolved in water, because we are below its LCST! This leads to again, balls, now with a core of coacervate, and a bunch of PNIPAM polymers standing out, making sure not more coacervate can join the ball in the center.
+
+
+| ![Result!]({static}/images/formed_stuff.jpg "A coacervate cored micelle & a PNIPAM cored micelle") | 
+|:--:| 
+| *On the left, there is a PNIPAM cored micelle, with PNIPAM sticking together in the centre, and the polyelectrolytes forming a 'corona' around the core. On the right, there is a complex coacervate cored micelle, with the complexed polyelectrolytes as core, and a PNIPAM corona.* |
+
 
 Now, if we start at this situation and increase the temperature, we cross the LCST of PNIPAM, and it no longer wants to dissolve in water, and tries to find other PNIPAM to stick to. This is what we originally wanted, and indeed what happens is that everything starts to stick together, leading to a though solid coacervate falling out of the solution.
 
