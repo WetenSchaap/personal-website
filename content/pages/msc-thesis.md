@@ -1,7 +1,7 @@
-
 title: MSc Thesis
 date: 2020-07-28
 modified: 2020-07-28
+slug: msc-thesis
 
 I performed my MSc thesis in 2016-2017 under supervision of [Ilse van Hees](https://orcid.org/0000-0001-7261-3699) and [Marleen Kamperman](https://orcid.org/0000-0002-0520-4534) (currently full professor at the University of Groningen) in the [Physical Chemistry and Soft Matter group](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Physical-Chemistry-and-Soft-Matter.htm) at Wageningen University. 
 
