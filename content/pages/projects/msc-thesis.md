@@ -39,7 +39,7 @@ So, how do we go about this, how do we get a temperature controlled hardening? O
 The solution we have now constructed is, in theory, pretty simple: we make 2 types of special polymers, each made of two parts (so called [block-copolymers](https://en.wikipedia.org/wiki/Copolymer)). The first part of the polymer is charged, either positive or negative, and the second part of the polymer is PNIPAM. In theory, this could react the way we want to, creating a glue that I have described.
 
 
-| ![Picture of our plan]({static}/images/the-plan.png "Our master plan") | 
+| ![Picture of our plan]({static}/images/the_plan_msc-thesis.png "Our master plan") | 
 |:--:| 
 | *Our plan: we build 2 types of polymers, both with a positive or negative polyelectrolyte (called PAA and PDMAEMA) and PNIPAM. When we mix those polymers, they should form a slimy thing that will harden out at higher temperatures.* |
 
