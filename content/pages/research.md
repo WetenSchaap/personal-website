@@ -15,5 +15,3 @@ physics of patchy particle  assembly, and hopefully, eventually the resulting me
 This provides fundamental insight into complex self-assembly processes and mechanical response at the
 micron- and nanoscale for tomorrow’s materials, and elucidate principles that also underlie
 complex biological structures.
-
-This is a [test link]({filename}projects/msc-thesis.md)
