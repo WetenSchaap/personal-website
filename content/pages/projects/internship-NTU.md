@@ -1,4 +1,4 @@
-title: NTU-internship
+title: Internship @ NTU
 date: 2020-07-30
 modified: 2020-07-30
 slug: pages/NTU-internship
