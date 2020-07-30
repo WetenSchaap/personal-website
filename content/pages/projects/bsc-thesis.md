@@ -1,7 +1,6 @@
 title: BSc Thesis
 date: 2020-07-30
 modified: 2020-07-30
-slug: pages/bsc-thesis
 
 I performed my BSc thesis in 2015 under supervision of [Joris Sprakel](https://scholar.google.nl/citations?user=Su9JOb8AAAAJ) and [Jasper van der Gucht](https://scholar.google.nl/citations?user=ajwWs2wAAAAJ) in the [Physical Chemistry and Soft Matter group](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Physical-Chemistry-and-Soft-Matter.htm) at Wageningen University. 
 

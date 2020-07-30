@@ -16,3 +16,4 @@ This provides fundamental insight into complex self-assembly processes and mecha
 micron- and nanoscale for tomorrow’s materials, and elucidate principles that also underlie
 complex biological structures.
 
+This is a [test link]({filename}pages/projects/msc-thesis.md)
