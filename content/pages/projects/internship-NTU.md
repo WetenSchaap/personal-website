@@ -1,18 +1,17 @@
 title: Internship @ NTU
 date: 2020-07-30
 modified: 2020-07-30
-slug: pages/NTU-internship
 
 I performed an internship at Nanyang Technological University (NTU) in Singapore in 2017. I performed this research under supervision of 
 [Ali Miserez](https://scholar.google.nl/citations?user=Nb6KgIoAAAAA) and [Bartosz Gabryelczyk](https://orcid.org/0000-0002-8150-8353) in 
 the [Biological and Biomimetic Materials Laboratory](https://www.ntu.edu.sg/home/ali.miserez/).
 
-In this project, I studied the proteins that couse coacervation inside the beak of giant squids. A [paper](https://doi.org/10.1038/s41467-019-13469-8
+In this project, I studied the proteins that couse coacervation inside the beak of giant squids. A [paper](https://doi.org/10.1038/s41467-019-13469-8)
 containing my work (and quite a lot of other stuff) was published in Nature Communications if you want to check it out. 
 
 If you want a short(-ish) readable, understandable version of what I did, hopefully understandable for laymen, keep reading! 
 
-## A Squid and its Coacervates
+### A Squid and its Coacervates
 The formation of a water-immiscible liquid through the association of macromolecules, or '[coacervation](https://en.wikipedia.org/wiki/Coacervate)', is ubiquitous in the natural world. 
 It is present at all length scales: from adhesives used by marine animals, like barnacles and sandcastle worms, to the formation of 
 membraneless organelles, and the packing of DNA in the cell. In this project, I studied the coacervates and related structures found in 
@@ -20,7 +19,7 @@ the beak of the *Dosidicus gigas* squid.
 	
 | ![Drawing of Dosidicus gigas]({static}/images/Squid.png "Drawing of Dosidicus gigas, with a picture of its beak") | 
 |:--:| 
-| *Drawing of *Dosidicus gigas*, with a picture of its beak, adapted from [this paper](https://www.nature.com/articles/nchembio.1833) * |
+| *Drawing of* Dosidicus gigas *, with a picture of its beak, adapted from [this paper](https://www.nature.com/articles/nchembio.1833)* |
 
 The squid beak has fascinating mechanical properties: the beak is extremely strong: strong enough to penetrate the shells of [crustaceans](https://en.wikipedia.org/wiki/Crustacean)
 it feeds on. On top of this, from the beak base to the hard tip (the 'rostrum') a 200-fold stiffness gradient is found. The 'classic' approach
@@ -42,7 +41,7 @@ On closer inspection, the coacervates found in squid beak are not always truly c
 Protein fibrils in particular are the subject of intense study, because a class of protein fibrils ('[amyloids](https://en.wikipedia.org/wiki/Amyloid)') 
 are involved in Alzheimer's and Huntington's disease. Other examples of protein fibre include spider silk.
 
-## How does the squid get nice coacervates
+### How does the squid get nice coacervates
 
 In this work, I studied the 'DgHBP' protein to explain its self-coacervating and self-assembling behaviour. I specifically studied 2 types of DgHBP
 proteint which look largely the same. However, their self-coacervating behaviour is different. In seawater, one will form a 'dispersed coacervate' 

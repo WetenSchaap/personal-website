@@ -1,7 +1,6 @@
 title: Colloidal Molecules
 date: 2020-07-30
 modified: 2020-07-30
-slug: pages/colloids-as-molecules
 
 Colloidal particles offer fascinating insight into the statistical mechanics and assembly behaviour of atoms. 
 The particles, about a micrometer in size, have thermal energy and attractive/repulsive interactions similar to atoms,
@@ -12,7 +11,7 @@ in photonics and optoelectronics.
 
 | ![2 tetrapatch particles bound together patch-to-patch]({static}/images/tetrapatch_binding.gif "2 tetrapatch particles bound together patch-to-patch") | 
 |:--:| 
-| *Two tetrapatch particles, bonded via one of their patches. These tetrapatch particles mimic sp3 hybridized carbon atoms, and can form intriguing colloidal molecules* |
+| *Two tetrapatch particles, bonded via one of their patches. These tetrapatch particles mimic sp³ hybridized carbon atoms, and can form intriguing colloidal molecules* |
 
 We bind “patchy” colloidal particles into colloidal molecules using critical Casimir interactions. The attractive
 critical Casimir force arises only between the patches, from the confinement of critical solvent fluctuations between them.

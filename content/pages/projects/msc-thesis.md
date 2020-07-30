@@ -1,7 +1,6 @@
 title: MSc Thesis
 date: 2020-07-28
 modified: 2020-07-30
-slug: pages/msc-thesis
 
 I performed my MSc thesis in 2016-2017 under supervision of [Ilse van Hees](https://orcid.org/0000-0001-7261-3699) and [Marleen Kamperman](https://orcid.org/0000-0002-0520-4534) (currently full professor at the University of Groningen) in the [Physical Chemistry and Soft Matter group](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Physical-Chemistry-and-Soft-Matter.htm) at Wageningen University. 
 
@@ -9,7 +8,7 @@ In this project, I explored the coacervation behaviour of temperature responsive
 
 If you want a short(-ish) readable, understandable version of my work, hopefully understandable for laymen, keep reading! Before we go any deeper, it is probably best to give you some background on [polymers](https://en.wikipedia.org/wiki/Polymer), [polyelectrolytes](https://en.wikipedia.org/wiki/Polyelectrolyte) and [coacervation](https://en.wikipedia.org/wiki/Coacervate). If you know all about this, you may want to skip the following section.
 
-## Polymers, Polyelectrolytes, and Coacervation
+### Polymers, Polyelectrolytes, and Coacervation
 First things first, what is a polymer? A polymer is simply a very long molecule. Many of the things around us are made of polymers: all plastics, but also wood, DNA, and glue are polymeric materials. Almost always a polymer consists of a single 'monomer' molecule, which is just repeated a bunch of times in a row, creating a chain. Imagine a string of beads: each bead is a monomer, together forming a polymer. You can of course vay the beads, first adding blue ones, then green ones. Maybe we can vary the shape as well. The same thing goes with polymers. We can choose the type of monomers we want to make our chain out of, and we can switch to a different bead halfway trough, or even make a mix of different beats. Although in chemistry, adding monomers is somewhat more complicated then putting a bead on a string, the idea is very similar.
 
 Now, we can choose a very specific type of bead to build our chains from, one with a charge. If you do this, you no longer call the polymer a polymer, but a polyelectrolyte. Don't ask me why. You can thus make polymers with a charge. It may be somewhat unsurprising, but when you take a positively charged polyelectrolyte (dissolved in water), and mix it with an negatively charged polyelectrolyte, the polymers tend to attract each other, form little droplets of mixed polyelectrolyte, and sink to the bottom. On the bottom, all the small polymer droplets merge to form a new concentrated phase consisting of both types of polyelectrolytes (positive & negative) and a lot of water (up to 80% water in fact). This process is what we call complex coacervation, and the concentrated phase it produces is called a "complex coacervate". The complex coacervate is typically a gooey, slimy substance, that cannot be dissolved in water, despite containing a lot of water.
@@ -20,7 +19,7 @@ Now, we can choose a very specific type of bead to build our chains from, one wi
 
 This complex coacervation takes place between 2 oppositely charged polyelectrolytes, and is not caused by electrostatic effects (meaning the charges attracting each other, as you may expect), but due to the entropic gain of the displacement of counter-ions on the polyelectrolytes. The polyelectrolytes have some salts on them, and when they coacervate, the salts come off, which basically, is something nature likes. This means that the amount and type of salt in the water when you start can strongly influence how strongly the polyelectrolytes bond to each other.
 
-## Glue, Complex Coacervates, and a Sandcastle Worm
+### Glue, Complex Coacervates, and a Sandcastle Worm
 Now, as I mentioned, a complex coacervate is a somewhat slimy substance, not unlike unset glue. This gives us an idea. Maybe we can use it to make glue? 
 
 To make glue (or formally, an [adhesive](https://en.wikipedia.org/wiki/Adhesive)), we want a material with 3 properties:
@@ -43,14 +42,14 @@ The solution we have now constructed is, in theory, pretty simple: we make 2 typ
 |:--:| 
 | *Our plan: we build 2 types of polymers, both with a positive or negative polyelectrolyte (called PAA and PDMAEMA) and PNIPAM. When we mix those polymers, they should form a slimy thing that will harden out at higher temperatures.* |
 
-## Results (and some discussion)
+### Results (and some discussion)
 It turns out, things sort of worked the way we expect, only, more is happening then we expected! We get an entire phase diagram of behaviours. It turns out that depending on the salt concentration and the temperature of the samples, you get wildly different behaviours from the polymer mixture. I will guide you trough it quickly.
 
 At very high salt concentrations, the coacervate does not want to form, because the driving force (releasing salt into the solution) is basically gone. But, as you have added a lot of salt, the PNIPAM LCST is below room temperature, and thus all the PNIPAM tries to stick together. This causes the formation of so called PNIPAM cored [micelles](https://en.wikipedia.org/wiki/Micelle), basically, you have little balls with a core of PNIPAM from several polymers stuck together, and several strands of charged polymer standing out from that, in such a way that no more PNIPAM can be added to this ball.
 
 At lower salt concentration (but still room temperature), we get so called coacervate cored micelles, the opposite situation of earlier. Now, because the salt concentration is lower, the polyelectrolytes try to stick together to form a coacervate, but the PNIPAM wants to be dissolved in water, because we are below its LCST! This leads to, again, balls, now with a core of coacervate, and a bunch of PNIPAM polymers standing out, making sure not more coacervate can join the ball in the center.
 
-| ![Result!]({static}/images/formed_stuff.jpg "A coacervate cored micelle & a PNIPAM cored micelle") | 
+| ![Result!]({static}/images/formed_stuff.png "A coacervate cored micelle & a PNIPAM cored micelle") | 
 |:--:| 
 | *On the left, there is a PNIPAM cored micelle, with PNIPAM sticking together in the centre, and the polyelectrolytes forming a 'corona' around the core. On the right, there is a complex coacervate cored micelle, with the complexed polyelectrolytes as core, and a PNIPAM corona.* |
 
