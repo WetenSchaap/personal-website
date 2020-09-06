@@ -1,14 +1,17 @@
 title: Research   
 date: 2020-05-09
-modified: 2020-05-09
+modified: 2020-05-10
 
-My research is in the field of [Soft Matter](https://en.wikipedia.org/wiki/Soft_matter), the science of (basically) soft things. If you want to know more about that, the wikipedia is a pretty good place to start reading.
+My research is in the field of [Soft Matter](https://en.wikipedia.org/wiki/Soft_matter),
+the science of soft things (basically). If you want to know more about that, the wikipedia 
+is a pretty good place to start reading.
 
-More specifically, I am currently investigating so-called *Patchy Particles* and study their assembly behaviour. We see how particles assemble, into what kind of structures, and try to learn the rules of this type of assembly, which may be at the base of future complex materials with interesting mechanical or optical properties.
-
-## My publications
-Below is a list of my publications. It may or may not be fully up to date. For a list that is definitely up to date, you can check my [ORCID](https://orcid.org/0000-0002-6118-9746).
-
-  * Hydrogen bond guidance and aromatic stacking drive liquid-liquid phase separation of intrinsically disordered histidine-rich peptides, Nature Communications (2019). [DOI](https://doi.org/10.1038/s41467-019-13469-8)
-  * Self-assembly of oppositely charged polyelectrolyte block copolymers containing short thermoresponsive blocks, Polymer Chemistry (2019). [DOI](https://doi.org/10.1039/c9py00250b)
-
+More specifically, I am currently investigating the assembly and mechanics of complex
+colloidal structures made from patchy colloidal particles. [Recent breakthroughs](https://www.nature.com/articles/nature23901) in synthesis
+allow the design of anisotropic colloidal particles that serve as building blocks in complex
+micron and nanoscale structures. These structures are both of fundamental scientific interest
+as well as important for applications in future smart materials. I explore the
+physics of patchy particle  assembly, and hopefully, eventually the resulting mechanical properties. 
+This provides fundamental insight into complex self-assembly processes and mechanical response at the
+micron- and nanoscale for tomorrow’s materials, and elucidate principles that also underlie
+complex biological structures.

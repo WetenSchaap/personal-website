@@ -5,24 +5,20 @@ from __future__ import unicode_literals
 AUTHOR = 'Piet Swinkels'
 SITENAME = 'Piet Swinkels'
 SITETITLE = 'Piet Swinkels'
-SITESUBTITLE = 'My personal website'
+SITESUBTITLE = 'Tinkering with science and computers, and preferably both'
 SITEDESCRIPTION = "Piet's Personal Website"
 #SITEURL = "https://www.swnkls.nl"
-SITELOGO = "images/piet.png"
-FAVICON = 'images/favicon.ico'
-LINKS_IN_NEW_TAB = 'external' 
+SITELOGO = "/images/piet_512px.png"
+FAVICON = "/images/favicon.ico"
+LINKS_IN_NEW_TAB = 'external'
 PATH = 'content'
 DEFAULT_PAGINATION = False
 
+STATIC_PATHS = ['images']
+
 #copyright
-#CC_LICENSE = {
-#    "name": "Creative Commons Attribution-ShareAlike",
-#    "version": "4.0",
-#    "slug": "by-sa"
-#}
 COPYRIGHT_NAME = "Piet Swinkels"
 COPYRIGHT_YEAR = "2020"
-
 
 # colorscheme
 THEME_COLOR = 'dark'
@@ -39,33 +35,47 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Ignore cache for dev
-LOAD_CONTENT_CACHE = False
+# Ignore cache for development
+LOAD_CONTENT_CACHE = True
 
-# What to show on the sidebar:
+# What to show on the sidebar and top:
+# main menu  (I don't really like this to be honest)
+MAIN_MENU = False
+MENUITEMS = (("About me", '/about-me.html'),
+             ("Research", '/research.html'),
+             #etc,etc
+            )
 DISPLAY_PAGES_ON_MENU = False
 #DISPLAY_CATEGORIES_ON_MENU = False
 
-MENUITEMS = (("About me", '{filename}/content/pages/about-me.md'),
-             ("Research", '{filename}/content/pages/research.md'),
-            )
+#links
+LINKS = (('Home','/index.html'),
+         ('About me','/pages/about-me.html'),
+         ('Research','/pages/research.html'),
+         ('Publications','/pages/publications.html'),
+         ('Resume','/pages/resume.html'),
+         ('Contact me','/pages/contact-me.html'),
+        )
 
-LINKS = (('test','https:\\duck.go'),
+#'social
+# To make this work, we need to hack the default Flex theme a little bit.
+# Entries of the form: ( LINE AWESOME CODE , LINK , BREAK )
+# the first entry is the symbol (find @ https://icons8.com/line-awesome), the second the link.
+# where BREAK is an int set to 0 or 1. 0 does nothing, 1 forces the next entry to start at the next line. Usefull for grouping.
+SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/", "0"),
+          ("lab la-github","https://github.com/WetenSchaap","0"),
+          ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746", "1"),
+          ("las la-server", "https://nas.swnkls.nl", "0"),
+          ("lab la-git-square", "https://git.swnkls.nl", "0"),
+          ("las la-cogs", "https://nginx.swnkls.nl", "0"),
+          ("las la-tv", "https://jellyfin.swnkls.nl", "0"),
+          ("lab la-wikipedia-w", "https://wiki.swnkls.nl", "0"),
+          ("las la-network-wired", "https://torrent.swnkls.nl", "0"),
+          ("las la-file-download", "https://pyload.swnkls.nl", "0"),
+          ("las la-utensils", "https://kookboek.swnkls.nl/", "0"),
+#          ("las la-bookmark", "https://shiori.swnkls.nl"), # took this offline, may change in future.
          )
-
-SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/"),
-          ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746"),
-          ("las la-server", "https://nas.swnkls.nl"),
-          ("lab la-git-square", "https://git.swnkls.nl"),
-          ("las la-cogs", "https://nginx.swnkls.nl"),
-          ("las la-tv", "https://jellyfin.swnkls.nl"),
-          ("las la-cloud-download-alt", "https://deluge.swnkls.nl"),
-          ("lab la-wikipedia-w", "https://wiki.swnkls.nl"),
-          ("las la-bookmark", "https://shaarli.swnkls.nl"),
-         )
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 # Apply a theme:
+# Okay, this folder should be included in the repo, because I actually changed the Flex theme a little bit to make line awesome symbols work!
 THEME = "../pelican-themes/Flex"
