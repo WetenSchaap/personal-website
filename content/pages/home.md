@@ -11,4 +11,3 @@ the right place to start.
 You will find that many of the links in the sidebar are not
 accessible without a password. This is because they link to services
 that are for my personal use, like a small wiki, a git server, and more. 
-
