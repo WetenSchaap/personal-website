@@ -3,6 +3,7 @@ date: 2020-09-06
 modified: 2020-09-07
 
 Okay, so at the bottom of this page there should be a picture that describes my setup, but to recap in text:
+
 1. Internet comes into the house at the ISP modem. All incoming traffic meant for my services is forwarded to my own modem, where I can control
 it better.
 2. All external traffic is routed to the [nginx proxy manager](https://nginxproxymanager.com/), a so called *reverse proxy*, which decides where 
