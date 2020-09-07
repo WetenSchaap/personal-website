@@ -16,8 +16,8 @@ is used to actually sync folderd to my laptop/phone/whatever, but also between t
 but the important stuff is mirrored live to Aagje using Syncthing, so in case of a drive failure, I don't loose anything important. The NAS also does a weekly backup to
 'regular' external hard drives.
 4. The rest of the services I try to run in [Docker](https://www.docker.com/). Docker is a clever bit of software that basically creates a little
-box on your computer called a *container* where another programm lives. The nice thing about this is that this software cannot be influenced
-by other programms on the same computer, and it does not care about the type of computer you are running it on. The programm can
+box on your computer called a *container* where another programme lives. The nice thing about this is that this software cannot be influenced
+by other programmes on the same computer, and it does not care about the type of computer you are running it on. The programme can
 only see the inside of the box, and should therefore not care (or hardly care) on what type of computer you run it. Best of all, people who
 make software often also create a container with their software in it, ready to go. Meaning I need to do very little complex setup.
 5. I run several services for myself (apart from the aforementioned Syncthing and Nginx proxy manager), on both Aagje and Helderder. Due
@@ -41,5 +41,5 @@ see here as a snapshot of the systems I have in place, which may or may not be v
 ![Network setup]({static}/images/network-setup.png "Network setup")
 
 
-In this image, purple lines are physical internet cables, green lines are shared data, black lines indicate programms that run on the machine, blue lines indicate applications
+In this image, purple lines are physical internet cables, green lines are shared data, black lines indicate programmes that run on the machine, blue lines indicate applications
 that run in a docker container.
