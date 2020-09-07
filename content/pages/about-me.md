@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: About me
 date: 2020-05-09
 modified: 2020-09-06
