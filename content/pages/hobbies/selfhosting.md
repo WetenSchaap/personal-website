@@ -32,7 +32,7 @@ to the magic of Docker, it is not really important where these programs run exac
     * [Transmission](https://transmissionbt.com/), to download files via a torrent (Linux ISOs, etc.) to my NAS, so these huge files do not clutter my tiny laptop
     memory.
     * [Pyload](https://pyload.net), same as transmission, but for regular downloads. Put in the link, and it will download. Usefull for big files, software, whatever.
-    * [nginx web server](https://www.nginx.com/), to serve you this website (and others).
+    * [Nginx web server](https://www.nginx.com/), to serve you this website (and others).
   
 Just a warning, before you trust all this information, this setup changes pretty much all the time (otherwise it would not be much of a hobby of course). Take what you
 see here as a snapshot of the systems I have in place, which may or may not be very up to date.
