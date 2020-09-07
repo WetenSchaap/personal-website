@@ -21,17 +21,17 @@ Okay, so at the bottom of this page there should be a picture that describes my 
   make software often also create a container with their software in it, ready to go. Meaning I need to do very little complex setup.
   5. I run several services for myself (apart from the aforementioned Syncthing and Nginx proxy manager), on both Aagje and Helderder. Due
   to the magic of Docker, it is not really important where these programs run exactly.
-    1. [Pigallery2](https://bpatrik.github.io/pigallery2/), a self-hosted clone of Google Photos basically.
-	2. [Jellyfin](https://jellyfin.org/), Netflix, but for your own movies.
-	3. [Recipes](https://github.com/vabene1111/recipes), basically a digital recipe book, where you can add notes, collect recipes from other sources,
-	etc..
-	4. [Gitea](https://gitea.io/en-us/), a personal git server.
-	5. [Dokuwiki](https://www.dokuwiki.org/dokuwiki), a personal wikipedia, where you can put random knwoledge in an ordered way. Usefull for things you
-	forget how to do every year.
-	6. [Transmission](https://transmissionbt.com/), to download files via a torrent (Linux ISOs, etc.) to my NAS, so these huge files do not clutter my tiny laptop
+    * [Pigallery2](https://bpatrik.github.io/pigallery2/), a self-hosted clone of Google Photos basically.
+    * [Jellyfin](https://jellyfin.org/), Netflix, but for your own movies.
+    * [Recipes](https://github.com/vabene1111/recipes), basically a digital recipe book, where you can add notes, collect recipes from other sources,
+    etc..
+    * [Gitea](https://gitea.io/en-us/), a personal git server.
+    * [Dokuwiki](https://www.dokuwiki.org/dokuwiki), a personal wikipedia, where you can put random knwoledge in an ordered way. Usefull for things you
+    forget how to do every year.
+    * [Transmission](https://transmissionbt.com/), to download files via a torrent (Linux ISOs, etc.) to my NAS, so these huge files do not clutter my tiny laptop
     memory.
-	7. [Pyload](https://pyload.net), same as transmission, but for regular downloads. Put in the link, and it will download. Usefull for big files, software, whatever.
-	8. [nginx web server](https://www.nginx.com/), to serve you this website (and others).
+    * [Pyload](https://pyload.net), same as transmission, but for regular downloads. Put in the link, and it will download. Usefull for big files, software, whatever.
+    * [nginx web server](https://www.nginx.com/), to serve you this website (and others).
   
 Just a warning, before you trust all this information, this setup changes pretty much all the time (otherwise it would not be much of a hobby of course). Take what you
 see here as a snapshot of the systems I have in place, which may or may not be very up to date.
