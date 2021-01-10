@@ -64,7 +64,7 @@ LINKS = (('Home','/index.html'),
 # where BREAK is an int set to 0 or 1. 0 does nothing, 1 forces the next entry to start at the next line. Usefull for grouping.
 SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/", "0"),
           ("lab la-github","https://github.com/WetenSchaap","0"),
-          ("lab la-google","https://scholar.google.nl/citations?user=u7UTxGUAAAAJ","0")
+          ("lab la-google","https://scholar.google.nl/citations?user=u7UTxGUAAAAJ","0"),
           ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746", "1"),
           ("las la-server", "https://nas.swnkls.nl", "0"),
           ("lab la-git-square", "https://git.swnkls.nl", "0"),
