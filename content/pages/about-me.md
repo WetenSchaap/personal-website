@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: About me
 date: 2020-05-09
 modified: 2020-09-06
@@ -19,7 +18,7 @@ I enjoy the setting-up and playing around more then the actual using of those se
 (Before you ask, yes, I also used to play with Lego.) I have never received much training
 (apart from a 6ects "Programming in Python" course in my BSc), so I am mostly self-thought.
 I am not sure how (or why) this started, but I enjoy it so I don't think about it too much.
-An overview of all my services and how they work can be found [here]({filename}/hobbies/selfhosting.md). 
+An overview of all my services and how they work can be found [here]({filename}hobbies/selfhosting.md). 
 That page exist mostly to get thing straight for myself, but if you are particularily 
 interested, you can always take a look.
 
