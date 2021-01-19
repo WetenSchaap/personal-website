@@ -14,7 +14,7 @@ LINKS_IN_NEW_TAB = 'external'
 PATH = 'content'
 DEFAULT_PAGINATION = False
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images','pdfs']
 
 #copyright
 COPYRIGHT_NAME = "Piet Swinkels"
