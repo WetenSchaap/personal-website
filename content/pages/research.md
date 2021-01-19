@@ -6,7 +6,7 @@ My research is in the field of [Soft Matter](https://en.wikipedia.org/wiki/Soft_
 the science of soft things (basically). If you want to know more about that, the wikipedia 
 is a pretty good place to start reading.
 
-More specifically, I am currently investigating the assembly and mechanics of complex
+More specifically, in my phd project, I investigate the assembly and mechanics of complex
 colloidal structures made from patchy colloidal particles. [Recent breakthroughs](https://www.nature.com/articles/nature23901) in synthesis
 allow the design of anisotropic colloidal particles that serve as building blocks in complex
 micron and nanoscale structures. These structures are both of fundamental scientific interest
@@ -15,3 +15,5 @@ physics of patchy particle  assembly, and hopefully, eventually the resulting me
 This provides fundamental insight into complex self-assembly processes and mechanical response at the
 micron- and nanoscale for tomorrow’s materials, and elucidate principles that also underlie
 complex biological structures.
+
+For posters and presentations from conferences and other places, and get a more up-to-date idea of my work, check [here]({filename}/pages/projects/posters-and-presentations.md).
