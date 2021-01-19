@@ -2,7 +2,7 @@ title: Posters and Presentations
 date: 2021-01-19
 modified: 2021-01-19
 
-Below some posters and presentations from conferences, which may be usefull if you want to know more about my research.
+Below some posters and presentations from conferences and other stuff, which may be interesting if you want to know more about my research.
 
 ## Physics@Veldhoven 2021 & Chains 2020
 Poster: [Building Colloidal Graphene]({static}/pdfs/posters/poster_chains_2020.pdf)
@@ -24,5 +24,14 @@ Colloids have a rich history of being used as _big atoms_, to study phase transi
 Poster: [Assembling Patchy Particles into Colloidal Superstructures]({static}/pdfs/posters/poster_physics-at-veldhoven_2019.pdf)
 
 Molecular assembly is a good inspiration for the design of colloids for complex superstructures. From simple atomic properties, like direction, valency and reversibility, atoms can spontaneously form many different structures, from rings to polymers, and from diamond crystals to glasses. The reverse is also true: the assembly of colloids with atom-like properties may grant us new insight into the behaviour of molecules
+
+## Colloids in space: NASA mission ACE-T2-2
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pu2MP6sTCNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+See also [here](https://www1.grc.nasa.gov/space/iss-research/iss-fcf/fir/lmm/ace/). The website looks like that link may break soon, so [this is a link to the web-archive](https://web.archive.org/web/20200805180943/https://www1.grc.nasa.gov/space/iss-research/iss-fcf/fir/lmm/ace/), just to be sure.
+
+The Advanced Colloids Experiment-Temperature-2 (ACE-T-2) experiment looks at the assembly of complex structures from micron-scale colloidal particles interacting via tunable attractive interactions. The samples contain suspensions of trifluoroethyl methacrylate (FEMA) colloidal particles (10%vol) of type A and B in binary solvents composed of water (H2O, 68%mass) and lutidine (32%mass), that upon nearing the critical solvent temperature (Tc~32°C) give rise to critical Casimir interactions between the particles. Regulating the temperature enables control of the particle interactions, which for these mixtures of particles A and B are different, leading to the growth of complex structures, and provide a better understanding of how complex interactions lead to complex structures, and to understand the dynamics of growth of these structures.
+
 
 
