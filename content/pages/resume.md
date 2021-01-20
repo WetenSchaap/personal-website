@@ -2,7 +2,7 @@ title: Resume
 date: 2020-05-09
 modified: 2021-01-20
 
-Below a concise resume.
+Below a very concise resume.
 
 ## Main Research Interests
  * Soft Condensed Matter
@@ -22,12 +22,12 @@ Below a concise resume.
 ### 2015-2017 : **MSc, Molecular Life Sciences**; University of Wageningen
 
 > Specialisation: Physical Chemistry and Soft Matter
-
+  
 > Thesis : Mapping Coacervation Behaviour of Temperature Responsive Polyelectrolytes
 > 
 > Supervised by Dr. Ilse van Hees and Prof. Marleen Kamperman at the Laboratory
 for Physical Chemistry and Soft Matter (Wageningen University). You can find a short summery [here]({filename}/pages/projects/msc-thesis.md).
-
+  
 > Internship : Self-coacervation of Squid Beak Proteins
 > 
 > Performed at the Biological and Biomimetic Material Laboratory at Nanyang Technological University, Singapore, supervised by Assoc. Prof. Ali Miserez.
@@ -42,14 +42,17 @@ for Physical Chemistry and Soft Matter (Wageningen University). You can find a s
 
 ### Experimental Experience
  * Microscopy:
+ 
    * Brightfield Microscopy
    * Confocal Microscopy
    * Scanning Electron Micropscopy
  * Chemical labwork:
+ 
    * Synthesis of polymers (RAFT, free radical)
    * Synthesis of colloids
    * General labwork
  * Data analysis (mostly Python):
+ 
    * Image analysis, like particle tracking.
    * General data handling
  * Static and Dynamic Light Scattering
@@ -58,6 +61,7 @@ for Physical Chemistry and Soft Matter (Wageningen University). You can find a s
 ### Teaching Experience
  * Supervision of BSc and MSc thesis projects
  * Teaching **Thermal Physics**, a 2nd year course for BSc students in Physics.
+ 
    * Supervise working classes 
    * Managing digital content (Canvas)
    * Grading and supervision of exams and homework
