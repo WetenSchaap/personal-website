@@ -5,9 +5,9 @@ modified: 2021-01-22
 Below a very concise resume.
 
 ## Main Research Interests
-    * Soft Condensed Matter
-    * Bio-inspired Materials
-    * Self-assembly
+ * Soft Condensed Matter
+ * Bio-inspired Materials
+ * Self-assembly
 
 ## Education
 
@@ -41,45 +41,45 @@ for Physical Chemistry and Soft Matter (Wageningen University). You can find a s
 ## Skills
 
 ### Experimental Experience
-    * Microscopy:
-        - Brightfield Microscopy
-        - Confocal Microscopy
-        - Scanning Electron Micropscopy
-    * Chemical labwork:
-        - Synthesis of polymers (RAFT, free radical)
-        - Synthesis of colloids
-        - General labwork
-    * Data analysis (mostly Python):
-        - Image analysis, like particle tracking.
-        - General data handling
-    * Static and Dynamic Light Scattering
-    * Spectroscopy, like (2D-)NMR.
+* Microscopy:
+    - Brightfield Microscopy
+    - Confocal Microscopy
+    - Scanning Electron Micropscopy
+* Chemical labwork:
+    - Synthesis of polymers (RAFT, free radical)
+    - Synthesis of colloids
+    - General labwork
+* Data analysis (mostly Python):
+    - Image analysis, like particle tracking.
+    - General data handling
+* Static and Dynamic Light Scattering
+* Spectroscopy, like (2D-)NMR.
 
 ### Teaching Experience
-    * Supervision of BSc and MSc thesis projects
-    * Teaching **Thermal Physics**, a 2nd year course for BSc students in Physics.
-        - Supervise working classes 
-        - Managing digital content (Canvas)
-        - Grading and supervision of exams and homework
+* Supervision of BSc and MSc thesis projects
+* Teaching **Thermal Physics**, a 2nd year course for BSc students in Physics.
+    - Supervise working classes 
+    - Managing digital content (Canvas)
+    - Grading and supervision of exams and homework
 
 ### Computer Skills
-    * **Python**: Extensive experience in controlling equipment, data analysis and visualisation.
-    * **Linux**: Everyday use of OS, comfortable using terminal.
-    * **Blender**: Used for data visualisation, especially using Python scripting.
-    * **Latex**: Comfortable writing reports, documents, thesis, etc..
-    * **MATLAB**
-    * **Origin**
-    * **Docker** 
-    * **git**
+ * **Python**: Extensive experience in controlling equipment, data analysis and visualisation.
+ * **Linux**: Everyday use of OS, comfortable using terminal.
+ * **Blender**: Used for data visualisation, especially using Python scripting.
+ * **Latex**: Comfortable writing reports, documents, thesis, etc..
+ * **MATLAB**
+ * **Origin**
+ * **Docker** 
+ * **git**
 
 ## Languages
-    * **Dutch** - Mother tongue
-    * **English** - Fluent on academic level
+ * **Dutch** - Mother tongue
+ * **English** - Fluent on academic level
 
 ## [Interests & hobbies]({filename}/pages/about-me.md)
-    * “Self-Hosting” & fiddling with computers (as you can see from the existence this page)   
-    * Reading
-    * Hiking
+ * “Self-Hosting” & fiddling with computers (as you can see from the existence this page)   
+ * Reading
+ * Hiking
 
 ## Publications
 See [elsewhere]({filename}/pages/publication.md) on this website, or check [ORCID](https://orcid.org/0000-0002-6118-9746).
