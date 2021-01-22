@@ -22,6 +22,7 @@ Below a very concise resume.
 ### 2015-2017 : **MSc, Molecular Life Sciences**; University of Wageningen
 
 > Specialisation: Physical Chemistry and Soft Matter
+>
 ---
 > Thesis : Mapping Coacervation Behaviour of Temperature Responsive Polyelectrolytes
 > 
