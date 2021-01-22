@@ -11,7 +11,7 @@ Below a very concise resume.
 
 ## Education
 
-### 2017-2021 (expected) : **PhD, Soft Matter Physics**; University of Amsterdam
+### 2017-2022 (expected) : **PhD, Soft Matter Physics**; University of Amsterdam
 
 > Tentative Thesis Title: Assembly of Patchy Particles in Colloidal Superstructures 
 > 
