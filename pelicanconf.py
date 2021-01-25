@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Piet Swinkels'
 SITENAME = 'Piet Swinkels'
 SITETITLE = 'Piet Swinkels'
-SITESUBTITLE = 'Tinkering with science and computers, and preferably both'
+SITESUBTITLE = "The only difference between screwing around and science is writing it down"
 SITEDESCRIPTION = "Piet's Personal Website"
 #SITEURL = "https://www.swnkls.nl"
 SITELOGO = "/images/piet_512px.png"
