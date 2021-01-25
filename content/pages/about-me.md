@@ -29,7 +29,7 @@ from our home, or bike 20 minutes to the closest starting spot.
 
 A feature that is sorely lacking in the Netherlands is - of course - hills and mountains. Unsurprisingly,
 our holidays are usually centered around going hiking up a bunch of hills or mountains somewhere. 
-We mainly stay in Europe; Schotland, Austria, Switzerland are personal favourites, although we are
+We mainly stay in Europe; Scotland, Austria, Switzerland are personal favourites, although we are
 still young, so more destinations will undoubtably follow.
 
 Sort of related to that, we love to travel by train. As we are still young, we can use (relatively) cheap 
