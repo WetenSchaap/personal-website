@@ -1,6 +1,6 @@
 title: About me
 date: 2020-05-09
-modified: 2020-09-06
+modified: 2021-02-17
 
 Hi! I am Piet Swinkels. At the time of writing I work at the
 [University of Amsterdam](https://www.uva.nl/en) as a PhD student in experimental
@@ -10,17 +10,21 @@ Soft Matter physics. I am doing this in the [soft condensed matter group](https:
 
 ## Self-hosting and other computer stuff
 As you may have guessed from the existence of this website, I am fairly tech-minded. 
-I love tinkering with computers and software. In fact, this website is hosted on a
-[Raspberry Pi 4](https://www.raspberrypi.org/), which is quitly sitting in the back of
-a cupboard somewhere in my house. As you may or may not have seen in the sidebar, it also
-runs quite a few other services. Of course these can all be usefull, but in reality, 
-I enjoy the setting-up and playing around more then the actual using of those services.
-(Before you ask, yes, I also used to play with Lego.) I have never received much training
-(apart from a 6ects "Programming in Python" course in my BSc), so I am mostly self-thought.
-I am not sure how (or why) this started, but I enjoy it so I don't think about it too much.
-An overview of all my services and how they work can be found [here]({filename}hobbies/selfhosting.md). 
-That page exist mostly to get thing straight for myself, but if you are particularily 
-interested, you can always take a look.
+I love tinkering with computers and software. In fact, this website used to be hosted on a
+[Raspberry Pi 4](https://www.raspberrypi.org/). I now switched to a [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) (i.e., someone
+else's PC), because there is less chance this website goes down when I do something stupid. The VPS runs this website,
+plus some other services, and the raspberry is still at home (quitly sitting in the back of
+a cupboard), running even more services. These other 'services' are stuff like a personal wiki, an 
+personal online cookbook, a git server, etc.. Of course these things are all very usefull, but I could
+have just used a (free) online service for that. The reason I host these myself is because it gives
+me a little better control over my data, and, maybe even more importantly, I enjoy the setting-up and 
+playing with these things.
+
+I have never received much training (apart from a 6ects "Programming in Python" course in my BSc), 
+so I am mostly self-thought. I am not sure how (or why) this started, but I enjoy it so I don't 
+think about it too much. An overview of all my services and how they work can be found 
+[here]({filename}hobbies/selfhosting.md). That page exist mostly to get thing straight for myself, 
+but if you are particularily interested, you can always take a look.
 
 ## Hiking and travel
 Appart from playing with computers I also really like hiking. I live close to one of the scattered little 
