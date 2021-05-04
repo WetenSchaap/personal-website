@@ -18,7 +18,7 @@ STATIC_PATHS = ['images','pdfs']
 
 #copyright
 COPYRIGHT_NAME = "Piet Swinkels"
-COPYRIGHT_YEAR = "2020"
+COPYRIGHT_YEAR = "2021"
 
 # colorscheme
 THEME_COLOR = 'dark'
@@ -68,14 +68,15 @@ SOCIAL = (("lab la-linkedin", "https://www.linkedin.com/in/pjm-swinkels/", "0"),
           ("lab la-orcid", "https://orcid.org/0000-0002-6118-9746", "1"),
           ("las la-server", "https://nas.swnkls.nl", "0"),
           ("las la-folder","https://fs.swnkls.nl/","0"),
-          ("lab la-git-square", "https://git.swnkls.nl", "0"),
-          ("las la-cogs", "https://nginx.swnkls.nl", "0"),
+          ("las la-camera-retro", "https://fotos.swnkls.nl","0"),
           ("las la-tv", "https://jellyfin.swnkls.nl", "0"),
+          ("las la-share-square", "https://msg.swnkls.nl","0"),
           ("lab la-wikipedia-w", "https://wiki.swnkls.nl", "0"),
+          ("lab la-git-square", "https://git.swnkls.nl", "0"),
           ("las la-network-wired", "https://torrent.swnkls.nl", "0"),
-          ("las la-file-download", "https://pyload.swnkls.nl", "0"),
+          # ("las la-file-download", "https://pyload.swnkls.nl", "0"), # I don't use this enough to justify its existence.
           ("las la-utensils", "https://kookboek.swnkls.nl", "0"),
-          ("las la-bookmark", "https://shiori.swnkls.nl", "0"), # took this offline, may change in future.
+          # ("las la-bookmark", "https://shiori.swnkls.nl", "0"), # took this offline, may change in future.
          )
 
 # Apply a theme:
