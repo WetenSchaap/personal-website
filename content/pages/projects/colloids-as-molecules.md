@@ -1,13 +1,16 @@
 title: Colloidal Molecules
 date: 2020-07-30
-modified: 2020-07-30
+modified: 2021-06-02
+
+See also: [phys.org article](https://phys.org/news/2021-05-micrometer-size-molecular-kit-real-chemical.html), [c2w article](https://www.c2w.nl/nieuws/modelmoleculen-op-micrometerschaal-geven-inzicht-in-chemische-reacties) (in dutch), and publication about this in [Nature Communications](http://dx.doi.org/10.1038/s41467-021-23144-6).
+
+![Artists impression of colloidal cyclopentane]({static}/images/cyclopentane-artist.jpg "Artists impression of colloidal cyclopentane") 
 
 Colloidal particles offer fascinating insight into the statistical mechanics and assembly behaviour of atoms. 
 The particles, about a micrometer in size, have thermal energy and attractive/repulsive interactions similar to atoms,
 making them form phases very similar to their atomic counterpart. Yet, due to their larger size, they can be easily 
 observed by optical microscopy. Besides being atomic models, these particles serve as building blocks for the assembly 
-of new micro- and nanoscale materials (see an example [here]({filename}2d-colloidal-materials.md)) that are used, e.g. 
-in photonics and optoelectronics. 
+of new micro- and nanoscale materials, for instance in photonics and optoelectronics (solar panels). 
 
 | ![2 tetrapatch particles bound together patch-to-patch]({static}/images/tetrapatch_binding.gif "2 tetrapatch particles bound together patch-to-patch") | 
 |:--:| 

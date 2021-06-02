@@ -50,8 +50,8 @@ DISPLAY_PAGES_ON_MENU = False
 
 #links
 LINKS = (('Home','/index.html'),
-         ('About me','/pages/about-me.html'),
          ('Research','/pages/research.html'),
+         ('Stuff','/pages/stuff.html'),
          ('Publications','/pages/publications.html'),
          ('Resume','/pages/resume.html'),
          ('Contact me','/pages/contact-me.html'),
