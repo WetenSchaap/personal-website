@@ -16,17 +16,28 @@ DEFAULT_PAGINATION = False
 
 STATIC_PATHS = ['images','pdfs']
 
+# robots:
+ROBOTS = "index, follow"
+
 #copyright
 COPYRIGHT_NAME = "Piet Swinkels"
 COPYRIGHT_YEAR = "2021"
 
 # colorscheme
 THEME_COLOR = 'dark'
-#THEME_COLOR_ENABLE_USER_OVERRIDE = True
+# THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+# code highlighting
+PYGMENTS_STYLE = "monokai"
 
 # localization
 TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
+
+# translations?
+# PLUGINS = ["i18n_subsites"]
+# JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+# I18N_TEMPLATES_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -36,7 +47,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Ignore cache for development
-LOAD_CONTENT_CACHE = True
+LOAD_CONTENT_CACHE = False
 
 # What to show on the sidebar and top:
 # main menu  (I don't really like this to be honest)

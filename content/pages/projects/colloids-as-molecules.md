@@ -1,6 +1,7 @@
 title: Colloidal Molecules
 date: 2020-07-30
 modified: 2021-06-02
+cover: /images/cyclopentane-artist.jpg
 
 See also: [phys.org article](https://phys.org/news/2021-05-micrometer-size-molecular-kit-real-chemical.html), [c2w article](https://www.c2w.nl/nieuws/modelmoleculen-op-micrometerschaal-geven-inzicht-in-chemische-reacties) (in dutch), and publication about this in [Nature Communications](http://dx.doi.org/10.1038/s41467-021-23144-6).
 
