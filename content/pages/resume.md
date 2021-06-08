@@ -83,4 +83,4 @@ for Physical Chemistry and Soft Matter (Wageningen University). You can find a s
  * Hiking
 
 ## Publications
-See [elsewhere]({filename}/pages/publication.md) on this website, or check [ORCID](https://orcid.org/0000-0002-6118-9746).
+See [elsewhere]({filename}/pages/publications.md) on this website, or check [ORCID](https://orcid.org/0000-0002-6118-9746).
